@@ -91,5 +91,6 @@ section .container .row .col button {
 
 section .container .row .col button:hover{
     cursor: pointer;
-    background-color: green;
+    background-color: yellow;
+    color: green;
 }
